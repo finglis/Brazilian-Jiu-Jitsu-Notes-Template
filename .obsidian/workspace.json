@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transition/Apocalypse Zombie.md",
+                "file": "Position/Full Guard (attack).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Apocalypse Zombie"
+              "title": "Full Guard (attack)"
             },
             "group": "30ee979ee5081af2"
           },
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Transition/Apocalypse Zombie.md",
+                "file": "Position/Full Guard (attack).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +113,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Apocalypse Zombie"
+              "title": "Graph of Full Guard (attack)"
             },
             "group": "30ee979ee5081af2"
           }
@@ -285,8 +285,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a2d58dd49c34b3f",
+  "active": "8428fecd27ed3071",
   "lastOpenFiles": [
+    "Position/Full Guard (attack).md",
     "Transition/Apocalypse Zombie.md",
     "Transition/Mad Dog.md",
     "Transition/The Drowning.md",
@@ -312,7 +313,6 @@
     "Submission/The Iron Arm.md",
     "Submission/Tepee.md",
     "Submission/Straight Jacket.md",
-    "Submission/Special K.md",
     "Organisation/Attachments/Pasted image 20260201191954.png",
     "Organisation/Attachments/Pasted image 20260201203024.png",
     "Organisation/Attachments/Pasted image 20260201202908.png",
