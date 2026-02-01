@@ -6,7 +6,7 @@
       {
         "id": "7da235c3362cfbec",
         "type": "tabs",
-        "dimension": 57.7728776185226,
+        "dimension": 58.333333333333336,
         "children": [
           {
             "id": "2a2d58dd49c34b3f",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Position/Full Guard (attack).md",
+                "file": "Position/Clamp Guard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,32 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Full Guard (attack)"
-            },
-            "group": "30ee979ee5081af2"
-          },
-          {
-            "id": "ff298ee56241f7b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation/How To Use.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How To Use"
+              "title": "Clamp Guard"
             }
           }
         ]
@@ -62,60 +37,31 @@
       {
         "id": "fe14d8b6c8cb4a2f",
         "type": "tabs",
-        "dimension": 42.2271223814774,
+        "dimension": 41.66666666666667,
         "children": [
           {
-            "id": "91a919d002986bdd",
+            "id": "8adbdf157e7d3f48",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "Position/Full Guard (attack).md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": false,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:Position",
-                      "color": {
-                        "a": 1,
-                        "rgb": 920544
-                      }
-                    },
-                    {
-                      "query": "path:Submission",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1305644
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
+                "file": "Position/Half Guard (top).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Full Guard (attack)"
-            },
-            "group": "30ee979ee5081af2"
+              "icon": "lucide-file",
+              "title": "Half Guard (top)"
+            }
           }
         ]
       }
@@ -272,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 811.5
+    "width": 780.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,44 +232,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "8428fecd27ed3071",
+  "active": "2a2d58dd49c34b3f",
   "lastOpenFiles": [
-    "Position/Full Guard (attack).md",
-    "Transition/Apocalypse Zombie.md",
-    "Transition/Mad Dog.md",
-    "Transition/The Drowning.md",
-    "Transition/Mission Pump.md",
-    "Transition/DA.md",
-    "Transition/Barn Hook.md",
-    "Submission/Reverse Triangle.md",
-    "Submission/Monoplata.md",
-    "Submission/Gogoplata.md",
-    "Submission/Far Side Ankle Lock.md",
-    "Submission/Double Barrel.md",
-    "Submission/Cross Choke.md",
-    "Submission/Crocodile.md",
-    "Submission/Carni.md",
-    "Submission/Baratoplata.md",
-    "Submission/Baby Alligator.md",
-    "Submission/Armbar.md",
-    "Submission/Apocalypse Kimura.md",
-    "Submission/Wicked Gogoplata.md",
+    "Organisation/Attachments/Pasted image 20260201233612.png",
+    "Position/Shit triangle.md",
     "Submission/Triangle.md",
-    "Submission/The Shark.md",
-    "Submission/The Oprah.md",
-    "Submission/The Iron Arm.md",
-    "Submission/Tepee.md",
-    "Submission/Straight Jacket.md",
+    "Submission/Triangle Punch Choke.md",
+    "Organisation/Attachments/Pasted image 20260201233141.png",
+    "Submission/Gogoplata.md",
+    "Submission/Kimura (opponent upright).md",
+    "Organisation/Attachments/Pasted image 20260201232827.png",
+    "Submission/Kimura (opponent flat).md",
+    "Transition/Zombie.md",
+    "Transition/The Un-winder.md",
+    "Transition/The Snitch.md",
+    "Transition/The Shanaynay.md",
+    "Transition/The Pump.md",
+    "Transition/The Ice Pick.md",
+    "Transition/The Drowning.md",
+    "Transition/Swim Move.md",
+    "Transition/Rescue Dog.md",
+    "Transition/Night of the Living Dead.md",
+    "Transition/Mission Pump.md",
+    "Transition/Mad Dog.md",
+    "Transition/Kung Fu Move.md",
+    "Transition/Exhumer.md",
+    "Transition/Double Zombie.md",
+    "Transition/Double Bagger.md",
+    "Transition/DA.md",
+    "Transition/Crowbar.md",
+    "Transition/Clear the Neck.md",
+    "Organisation/Attachments/Pasted image 20260201230855.png",
+    "Organisation/Attachments/Pasted image 20260201230552.png",
+    "Organisation/Attachments/Pasted image 20260201230155.png",
+    "Organisation/Attachments/Pasted image 20260201225949.png",
+    "Organisation/Attachments/Pasted image 20260201225802.png",
+    "Organisation/Attachments/Pasted image 20260201224353.png",
     "Organisation/Attachments/Pasted image 20260201191954.png",
     "Organisation/Attachments/Pasted image 20260201203024.png",
-    "Organisation/Attachments/Pasted image 20260201202908.png",
-    "Organisation/Attachments/Pasted image 20260201193644.png",
-    "Organisation/Attachments/Pasted image 20260201202737.png",
-    "Organisation/Attachments/Pasted image 20260201201241.png",
-    "Organisation/Attachments/Pasted image 20260201201111.png",
-    "Organisation/Attachments/Pasted image 20260201200937.png",
-    "Organisation/Attachments/Pasted image 20260201200450.png",
-    "Organisation/Attachments/Pasted image 20260201195926.png",
     "Organisation/Index.base",
     "Organisation/Attachments",
     "90",

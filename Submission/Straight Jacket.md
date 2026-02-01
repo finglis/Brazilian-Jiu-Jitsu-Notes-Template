@@ -7,9 +7,14 @@ cssclasses:
 ---
 ## Definition
 
+## Submissions
+[[Armbar (opponent flat)]]
 ## Transitions
 [[Special K]]
-[[Armbar]]
+# References
+
+Note Created: 2026-02-01 23:12
+
 
 # References
 

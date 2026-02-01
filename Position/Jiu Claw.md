@@ -10,7 +10,7 @@ cssclasses:
 ## Submissions
 [[Hazelett]]
 [[Omoplata]]
-[[Armbar]]
+[[Armbar (opponent flat)]]
 [[Inverted Armbar]]
 [[Near Side Ankle Lock]]
 [[Far Side Ankle Lock]]

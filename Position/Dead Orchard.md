@@ -11,7 +11,7 @@ cssclasses:
 [[Crocodile]]
 [[Baby Alligator]]
 [[Far side armbar]]
-[[Kimura]]
+[[Kimura (opponent upright)]]
 [[Duda]]
 [[Apocalypse Kimura]] (via Apocalypse Zombie)
 ## Transitions

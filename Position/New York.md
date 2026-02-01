@@ -9,9 +9,8 @@ cssclasses:
 ## Definition
 
 ## Submissions
-[[Armbar]]
+[[Armbar (opponent upright)]]
 [[East Coast Croc]]
-
 ## Transitions
 [[Meat Hook]]
 [[New York Crackhead]]

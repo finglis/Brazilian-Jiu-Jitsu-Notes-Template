@@ -8,8 +8,7 @@ cssclasses:
 ## Definition
 
 ## Submissions
-[[Armbar]]
-
+[[Armbar (opponent flat)]]
 ## Transitions
 
 # References

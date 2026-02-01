@@ -9,7 +9,6 @@ cssclasses:
 ## Submissions
 [[Triangle]]
 [[Ninja-Plata]]
-
 ## Transitions
 [[Puppet Master]]
 

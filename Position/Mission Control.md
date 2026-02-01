@@ -10,7 +10,7 @@ css:
 
 ## Submissions
 [[The Iron Arm]]
-[[Armbar]]
+[[Armbar (opponent upright)]]
 [[Duda]]
 ## Transitions
 [[Full Guard (attack)]]
