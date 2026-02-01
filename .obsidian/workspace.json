@@ -1,0 +1,339 @@
+{
+  "main": {
+    "id": "b7209059617937d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da235c3362cfbec",
+        "type": "tabs",
+        "dimension": 57.7728776185226,
+        "children": [
+          {
+            "id": "2a2d58dd49c34b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transition/Apocalypse Zombie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Apocalypse Zombie"
+            },
+            "group": "30ee979ee5081af2"
+          },
+          {
+            "id": "ff298ee56241f7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation/How To Use.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How To Use"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fe14d8b6c8cb4a2f",
+        "type": "tabs",
+        "dimension": 42.2271223814774,
+        "children": [
+          {
+            "id": "91a919d002986bdd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Transition/Apocalypse Zombie.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": false,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:Position",
+                      "color": {
+                        "a": 1,
+                        "rgb": 920544
+                      }
+                    },
+                    {
+                      "query": "path:Submission",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1305644
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Apocalypse Zombie"
+            },
+            "group": "30ee979ee5081af2"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d4de21d8f91c80b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8cf8ab0f645c7ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af03b14e31fc5d02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5de4580475faeea1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a74883873a7d74f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.50775146484375
+  },
+  "right": {
+    "id": "e49dd5869bf2716e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab285b1a0dc21d58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8428fecd27ed3071",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a04e63657f10bd3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c680ba53b5a3673f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d47a6a801232b675",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b2f6f8af55972144",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "258478c0ed3de121",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 811.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2a2d58dd49c34b3f",
+  "lastOpenFiles": [
+    "Transition/Apocalypse Zombie.md",
+    "Transition/Mad Dog.md",
+    "Transition/The Drowning.md",
+    "Transition/Mission Pump.md",
+    "Transition/DA.md",
+    "Transition/Barn Hook.md",
+    "Submission/Reverse Triangle.md",
+    "Submission/Monoplata.md",
+    "Submission/Gogoplata.md",
+    "Submission/Far Side Ankle Lock.md",
+    "Submission/Double Barrel.md",
+    "Submission/Cross Choke.md",
+    "Submission/Crocodile.md",
+    "Submission/Carni.md",
+    "Submission/Baratoplata.md",
+    "Submission/Baby Alligator.md",
+    "Submission/Armbar.md",
+    "Submission/Apocalypse Kimura.md",
+    "Submission/Wicked Gogoplata.md",
+    "Submission/Triangle.md",
+    "Submission/The Shark.md",
+    "Submission/The Oprah.md",
+    "Submission/The Iron Arm.md",
+    "Submission/Tepee.md",
+    "Submission/Straight Jacket.md",
+    "Submission/Special K.md",
+    "Organisation/Attachments/Pasted image 20260201191954.png",
+    "Organisation/Attachments/Pasted image 20260201203024.png",
+    "Organisation/Attachments/Pasted image 20260201202908.png",
+    "Organisation/Attachments/Pasted image 20260201193644.png",
+    "Organisation/Attachments/Pasted image 20260201202737.png",
+    "Organisation/Attachments/Pasted image 20260201201241.png",
+    "Organisation/Attachments/Pasted image 20260201201111.png",
+    "Organisation/Attachments/Pasted image 20260201200937.png",
+    "Organisation/Attachments/Pasted image 20260201200450.png",
+    "Organisation/Attachments/Pasted image 20260201195926.png",
+    "Organisation/Index.base",
+    "Organisation/Attachments",
+    "90",
+    "70",
+    "50",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Organisation/Resources/Video Series",
+    "Organisation/Resources/Clips",
+    "Organisation/Resources/Books",
+    "Organisation/Resources",
+    "Organisation/Templates"
+  ]
+}
