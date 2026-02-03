@@ -6,15 +6,14 @@
       {
         "id": "7da235c3362cfbec",
         "type": "tabs",
-        "dimension": 58.333333333333336,
         "children": [
           {
-            "id": "2a2d58dd49c34b3f",
+            "id": "f4ac642c8a8c1561",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Position/Clamp Guard.md",
+                "file": "Submission/Baseball Bat Choke.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,38 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Clamp Guard"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fe14d8b6c8cb4a2f",
-        "type": "tabs",
-        "dimension": 41.66666666666667,
-        "children": [
-          {
-            "id": "8adbdf157e7d3f48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Position/Half Guard (top).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Half Guard (top)"
+              "title": "Baseball Bat Choke"
             }
           }
         ]
@@ -120,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50775146484375
+    "width": 246.50775146484375
   },
   "right": {
     "id": "e49dd5869bf2716e",
@@ -232,44 +200,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a2d58dd49c34b3f",
+  "active": "f4ac642c8a8c1561",
   "lastOpenFiles": [
-    "Organisation/Attachments/Pasted image 20260201233612.png",
-    "Position/Shit triangle.md",
-    "Submission/Triangle.md",
-    "Submission/Triangle Punch Choke.md",
-    "Organisation/Attachments/Pasted image 20260201233141.png",
-    "Submission/Gogoplata.md",
-    "Submission/Kimura (opponent upright).md",
-    "Organisation/Attachments/Pasted image 20260201232827.png",
-    "Submission/Kimura (opponent flat).md",
-    "Transition/Zombie.md",
-    "Transition/The Un-winder.md",
-    "Transition/The Snitch.md",
-    "Transition/The Shanaynay.md",
-    "Transition/The Pump.md",
-    "Transition/The Ice Pick.md",
-    "Transition/The Drowning.md",
-    "Transition/Swim Move.md",
-    "Transition/Rescue Dog.md",
-    "Transition/Night of the Living Dead.md",
-    "Transition/Mission Pump.md",
-    "Transition/Mad Dog.md",
-    "Transition/Kung Fu Move.md",
-    "Transition/Exhumer.md",
-    "Transition/Double Zombie.md",
-    "Transition/Double Bagger.md",
-    "Transition/DA.md",
-    "Transition/Crowbar.md",
-    "Transition/Clear the Neck.md",
-    "Organisation/Attachments/Pasted image 20260201230855.png",
-    "Organisation/Attachments/Pasted image 20260201230552.png",
-    "Organisation/Attachments/Pasted image 20260201230155.png",
-    "Organisation/Attachments/Pasted image 20260201225949.png",
-    "Organisation/Attachments/Pasted image 20260201225802.png",
-    "Organisation/Attachments/Pasted image 20260201224353.png",
-    "Organisation/Attachments/Pasted image 20260201191954.png",
-    "Organisation/Attachments/Pasted image 20260201203024.png",
+    "Submission/Baseball Bat Choke (no gi).md",
+    "Submission/Marcelotine.md",
+    "Submission/Hip Choke.md",
+    "Submission/Helicopter Choke.md",
+    "Submission/Inverted Arm Lock.md",
+    "Submission/Armpit Lock.md",
+    "Submission/Telephone Lock.md",
+    "Submission/North South Choke.md",
+    "Submission/Bulgarian Neck Choke.md",
+    "Submission/Assasin Choke.md",
+    "Submission/Tren Lock.md",
+    "Submission/Walls of Jericho.md",
+    "Submission/Figure 4 Leg Lock.md",
+    "Submission/Scottish Twister.md",
+    "Submission/Spine Lock.md",
+    "Submission/Ham Sandwich.md",
+    "Submission/Crucifix Cradle.md",
+    "Submission/Tickle.md",
+    "Submission/Dog bar.md",
+    "Submission/Cryangle.md",
+    "Submission/Life Jacket.md",
+    "Submission/Bolt Cutter.md",
+    "Submission/Quicktap.md",
+    "Submission/Ezekiel Choke (high elbow).md",
+    "Submission/Ezekiel Choke (no gi).md",
+    "Submission/Pressure.md",
+    "Organisation/Attachments/Pasted image 20260202230024.png",
+    "Organisation/Attachments/Pasted image 20260202225457.png",
+    "Organisation/Attachments/Pasted image 20260202225153.png",
+    "Organisation/Attachments/Pasted image 20260202224927.png",
+    "Organisation/Attachments/Pasted image 20260202224517.png",
+    "Organisation/Attachments/Pasted image 20260202224205.png",
+    "Organisation/Attachments/Pasted image 20260202223633.png",
+    "Organisation/Attachments/Pasted image 20260202222434.png",
+    "Organisation/Attachments/Pasted image 20260202222156.png",
+    "Organisation/Attachments/Pasted image 20260202221557.png",
     "Organisation/Index.base",
     "Organisation/Attachments",
     "90",

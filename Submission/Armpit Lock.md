@@ -6,10 +6,8 @@ cssclasses:
 ---
 ## Definition
 
-## Submissions
-
 ## Transitions
 
 # References
 
-Note Created: 2026-01-31 20:42
+Note Created: 2026-02-03 00:16

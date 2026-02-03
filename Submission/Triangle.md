@@ -7,7 +7,7 @@ cssclasses:
 ---
 ## Definition
 ![[Pasted image 20260201230552.png]]
-[1. Image Source](https://www.youtube.com/watch?v=LDblXB61pok
+[1. Image Source](https://www.youtube.com/watch?v=LDblXB61pok)
 ## Transitions
 [[Tepee]]
 [[Triangle Punch Choke]]
