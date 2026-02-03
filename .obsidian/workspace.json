@@ -6,36 +6,11 @@
       {
         "id": "7da235c3362cfbec",
         "type": "tabs",
-        "dimension": 57.7728776185226,
         "children": [
           {
-            "id": "2a2d58dd49c34b3f",
+            "id": "f4ac642c8a8c1561",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Position/Full Guard (attack).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Full Guard (attack)"
-            },
-            "group": "30ee979ee5081af2"
-          },
-          {
-            "id": "ff298ee56241f7b9",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -53,71 +28,148 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "How To Use"
             }
-          }
-        ]
-      },
-      {
-        "id": "fe14d8b6c8cb4a2f",
-        "type": "tabs",
-        "dimension": 42.2271223814774,
-        "children": [
+          },
           {
-            "id": "91a919d002986bdd",
+            "id": "92f16509498306cb",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "Position/Full Guard (attack).md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": false,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:Position",
-                      "color": {
-                        "a": 1,
-                        "rgb": 920544
-                      }
-                    },
-                    {
-                      "query": "path:Submission",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1305644
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
+                "file": "Position/Jiu Claw.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Full Guard (attack)"
+              "icon": "lucide-file",
+              "title": "Jiu Claw"
             },
-            "group": "30ee979ee5081af2"
+            "group": "f018b5ed72bc1c7c"
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3790013d5f8c6be7",
+        "type": "split",
+        "children": [
+          {
+            "id": "1bb309d5787bee7b",
+            "type": "tabs",
+            "dimension": 57.11610486891385,
+            "children": [
+              {
+                "id": "d56eaae85eca83d8",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Position/Jiu Claw.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": false,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "path:Position  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 331248
+                          }
+                        },
+                        {
+                          "query": "path:Submission  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5431380
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Jiu Claw"
+                },
+                "group": "f018b5ed72bc1c7c"
+              }
+            ]
+          },
+          {
+            "id": "6691803bdbb7b201",
+            "type": "tabs",
+            "dimension": 42.88389513108614,
+            "children": [
+              {
+                "id": "bd550bc808a4b1e6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Position/Jiu Claw.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Jiu Claw"
+                },
+                "group": "f018b5ed72bc1c7c"
+              },
+              {
+                "id": "7fd73c22ce824d2e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Position/Jiu Claw.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Jiu Claw"
+                },
+                "group": "f018b5ed72bc1c7c"
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -174,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50775146484375
+    "width": 246.50775146484375
   },
   "right": {
     "id": "e49dd5869bf2716e",
@@ -187,9 +239,11 @@
           {
             "id": "8428fecd27ed3071",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -272,7 +326,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 811.5
+    "width": 593.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,44 +339,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "8428fecd27ed3071",
+  "active": "af03b14e31fc5d02",
   "lastOpenFiles": [
+    "Position/Jiu Claw.md",
+    "Position/The Ice Pick.md",
     "Position/Full Guard (attack).md",
-    "Transition/Apocalypse Zombie.md",
-    "Transition/Mad Dog.md",
-    "Transition/The Drowning.md",
-    "Transition/Mission Pump.md",
-    "Transition/DA.md",
-    "Transition/Barn Hook.md",
-    "Submission/Reverse Triangle.md",
-    "Submission/Monoplata.md",
-    "Submission/Gogoplata.md",
-    "Submission/Far Side Ankle Lock.md",
-    "Submission/Double Barrel.md",
-    "Submission/Cross Choke.md",
-    "Submission/Crocodile.md",
-    "Submission/Carni.md",
-    "Submission/Baratoplata.md",
-    "Submission/Baby Alligator.md",
+    "Position/Mission Control.md",
+    "Position/Full Guard (defend).md",
+    "Position/Back (attack).md",
+    "Organisation/How To Use.md",
+    "Submission/Americana (crucifix).md",
+    "Submission/Kimura.md",
     "Submission/Armbar.md",
-    "Submission/Apocalypse Kimura.md",
-    "Submission/Wicked Gogoplata.md",
-    "Submission/Triangle.md",
-    "Submission/The Shark.md",
-    "Submission/The Oprah.md",
-    "Submission/The Iron Arm.md",
-    "Submission/Tepee.md",
-    "Submission/Straight Jacket.md",
-    "Organisation/Attachments/Pasted image 20260201191954.png",
-    "Organisation/Attachments/Pasted image 20260201203024.png",
-    "Organisation/Attachments/Pasted image 20260201202908.png",
-    "Organisation/Attachments/Pasted image 20260201193644.png",
-    "Organisation/Attachments/Pasted image 20260201202737.png",
-    "Organisation/Attachments/Pasted image 20260201201241.png",
-    "Organisation/Attachments/Pasted image 20260201201111.png",
-    "Organisation/Attachments/Pasted image 20260201200937.png",
-    "Organisation/Attachments/Pasted image 20260201200450.png",
-    "Organisation/Attachments/Pasted image 20260201195926.png",
+    "Position/Octopus Guard.md",
+    "Position/Invisible Collar Choke.md",
+    "Position/Hindulotine.md",
+    "Position/Gogoclinch Choke.md",
+    "Position/Double Zombie.md",
+    "Position/Double Bagger.md",
+    "Submission/Armbar (crucifix).md",
+    "Submission/Crucifix Choke.md",
+    "Submission/Crucifix Cradle.md",
+    "Submission/Kimura (crucifix).md",
+    "Submission/Scarf Hold Americana.md",
+    "Submission/Scarf Hold Armbar.md",
+    "Submission/Scarf Hold Crush.md",
+    "Submission/Gag Reflex.md",
+    "Submission/Baseball Bat Choke.md",
+    "Submission/Baseball Bat Choke (no gi).md",
+    "Organisation/Attachments/Pasted image 20260202230024.png",
+    "Organisation/Attachments/Pasted image 20260202225457.png",
+    "Organisation/Attachments/Pasted image 20260202225153.png",
+    "Organisation/Attachments/Pasted image 20260202224927.png",
+    "Organisation/Attachments/Pasted image 20260202224517.png",
+    "Organisation/Attachments/Pasted image 20260202224205.png",
+    "Organisation/Attachments/Pasted image 20260202223633.png",
+    "Organisation/Attachments/Pasted image 20260202222434.png",
+    "Organisation/Attachments/Pasted image 20260202222156.png",
+    "Organisation/Attachments/Pasted image 20260202221557.png",
     "Organisation/Index.base",
     "Organisation/Attachments",
     "90",
