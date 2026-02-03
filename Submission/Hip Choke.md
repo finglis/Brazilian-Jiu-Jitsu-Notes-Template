@@ -1,5 +1,6 @@
 ---
 aliases:
+  - koshi jime
 tags:
   - "#New"
 cssclasses:

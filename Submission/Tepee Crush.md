@@ -1,7 +1,9 @@
 ---
 aliases:
+  - Jesus Curls
 tags:
   - "#New"
+  - 10pRubberGuard
 cssclasses:
 ---
 ## Definition
@@ -10,4 +12,4 @@ cssclasses:
 
 # References
 
-Note Created: 2026-02-03 00:13
+Note Created: 2026-01-28 12:11

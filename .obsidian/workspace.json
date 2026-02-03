@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Position/Jiu Claw.md",
+                "file": "Submission/Walls of Jericho.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jiu Claw"
+              "title": "Walls of Jericho"
             },
             "group": "f018b5ed72bc1c7c"
           }
@@ -76,7 +76,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Position/Jiu Claw.md",
+                    "file": "Submission/Walls of Jericho.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -119,7 +119,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Jiu Claw"
+                  "title": "Graph of Walls of Jericho"
                 },
                 "group": "f018b5ed72bc1c7c"
               }
@@ -136,7 +136,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Position/Jiu Claw.md",
+                    "file": "Submission/Walls of Jericho.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Jiu Claw"
+                  "title": "Backlinks for Walls of Jericho"
                 },
                 "group": "f018b5ed72bc1c7c"
               },
@@ -156,12 +156,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Position/Jiu Claw.md",
+                    "file": "Submission/Walls of Jericho.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from Jiu Claw"
+                  "title": "Outgoing links from Walls of Jericho"
                 },
                 "group": "f018b5ed72bc1c7c"
               }
@@ -341,32 +341,32 @@
   },
   "active": "92f16509498306cb",
   "lastOpenFiles": [
-    "Transition/Double Zombie.md",
-    "Transition/Double Bagger.md",
-    "Submission/Z Lock.md",
-    "Submission/Wrist Lock.md",
+    "Submission/Wicked Gogoplata.md",
     "Submission/Walls of Jericho.md",
     "Submission/Von Flue Choke.md",
     "Submission/Twister.md",
+    "Submission/Triangle.md",
+    "Submission/Toe Hold.md",
+    "Submission/The Oprah.md",
+    "Submission/Tepee Choke.md",
+    "Submission/Tickle.md",
+    "Submission/The Shark.md",
+    "Submission/Hip Choke.md",
+    "Submission/Banana Split.md",
+    "Submission/Canto Choke.md",
+    "Submission/Badger Bite.md",
+    "Submission/Aoki Lock.md",
+    "Submission/STF.md",
+    "Submission/Animal Planet.md",
+    "Jesus Curls.md",
+    "Submission/Diesel Squeezel.md",
+    "Submission/Tepee Crush.md",
+    "Submission/Butcher Shop.md",
+    "Submission/Bulldog Choke (reverse).md",
+    "Submission/The Hoover.md",
     "Submission/Triangle Punch Choke.md",
     "Submission/Tren Lock.md",
-    "Submission/Toe Hold.md",
-    "Submission/Tickle.md",
-    "Submission/Thrust Choke.md",
-    "Submission/Telephone Lock.md",
-    "Submission/Tarikoplata.md",
-    "Submission/Suloev Stretch Kneebar.md",
-    "Submission/Bolt Cutter.md",
-    "Submission/Bicep Slicer.md",
-    "Submission/Baseball Bat Choke.md",
-    "Submission/Baseball Bat Choke (no gi).md",
-    "Submission/Banana Split.md",
-    "Submission/Assasin Choke.md",
-    "Submission/Armpit Lock.md",
-    "Submission/Armbar (opponent upright).md",
-    "Submission/Armbar (opponent flat).md",
-    "Submission/Armbar (crucifix).md",
-    "Submission/Arm Triangle.md",
+    "Submission/Mikey Lock.md",
     "Organisation/Attachments/Pasted image 20260201233612.png",
     "Organisation/Attachments/Pasted image 20260201233141.png",
     "Organisation/Attachments/Pasted image 20260201232827.png",
