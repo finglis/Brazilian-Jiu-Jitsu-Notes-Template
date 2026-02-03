@@ -9,7 +9,7 @@ cssclasses:
 
 ## Submissions
 [[The Shark]]
-[[Kimura]]
+[[Kimura (opponent upright)]]
 ## Transitions
 
 # References

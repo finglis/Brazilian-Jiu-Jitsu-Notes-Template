@@ -7,12 +7,12 @@ cssclasses:
 ---
 ## Definition
 
+## Submissions
+[[Armbar (opponent upright)]]
+[[Kimura (opponent upright)]]
 ## Transitions
-[[Armbar]]
-[[Kimura]]
-
 [[Jiu Claw]]
-
 # References
 
-Note Created: 2026-01-28 12:16
+Note Created: 2026-02-01 23:13
+

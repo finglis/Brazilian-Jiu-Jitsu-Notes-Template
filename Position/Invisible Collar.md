@@ -8,7 +8,7 @@ cssclasses:
 ## Definition
 
 ## Submissions
-[[Kimura]]
+[[Kimura (opponent upright)]]
 [[Invisible Cross Choke]]
 [[Invisible Croc]]
 [[Invisible Cross Choke]]

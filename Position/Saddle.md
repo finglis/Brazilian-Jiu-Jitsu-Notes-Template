@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Honey Hole
+  - Inside Sankaku
 tags:
   - "#New"
 cssclasses:

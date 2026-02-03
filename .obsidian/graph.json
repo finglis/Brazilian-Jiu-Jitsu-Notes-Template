@@ -4,21 +4,20 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Position",
       "color": {
         "a": 1,
-        "rgb": 1975782
+        "rgb": 920544
       }
     },
     {
       "query": "path:Submission",
       "color": {
         "a": 1,
-        "rgb": 10678532
+        "rgb": 1305644
       }
     }
   ],
