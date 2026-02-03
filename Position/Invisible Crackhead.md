@@ -9,7 +9,6 @@ cssclasses:
 
 ## Submissions
 [[Duda]]
-
 ## Transitions
 [[Dead Orchard]]
 

@@ -17,3 +17,7 @@ Template for mapping out BJJ positions, transitions and submissions.
 This was created to help myself retain BJJ techniques better. Feel free to use and modify it as you see fit and send over pull requests.
 
 The useful plugin to actually map out paths is in development but will be linked here once available.
+
+## Acknowledgements
+
+Big shout out to [Jake Smith](https://www.instagram.com/jake_smith_26) and the folks at [Boston Submission Fighting](https://bostonsubmissionfighting.com/) (previously NESF) for allowing use of screenshots of their clips and videos within the notes. Check out their [instagram]((https://www.instagram.com/bostonsubmissionfighting/)) or [youtube](https://www.youtube.com/@bostonsubmissionfighting) for a treasure trove of BJJ content.

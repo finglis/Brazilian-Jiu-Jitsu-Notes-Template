@@ -6,9 +6,9 @@ Crtl + o = find note (creates a new one if title doesn't exist)
 Ctrl + p = run a command (eg run graph view)
 Ctrl + t = apply template (requires setting change)
 # View
-Although a persona preference, I've found the following view to be useful:
+Although a personal preference, I've found the following view to be useful:
 ![[Pasted image 20260201193644.png]]
-The contents of the folders and all the notes can be found on the left. Select one and you will see the default note view (read on to improve)
+The contents of the folders and all the notes can be found on the left. Select one and you will see the default note view (read on to improve). 
 
 ## Over-complicated Graph
 Before we sort the note viewing bit, the graph viewing needs to be sorted (as it will overwrite the rest if done last). I find it useful to get an overview graph by opening the far right section by selecting this:

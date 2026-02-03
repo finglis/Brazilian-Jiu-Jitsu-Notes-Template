@@ -6,15 +6,14 @@
       {
         "id": "7da235c3362cfbec",
         "type": "tabs",
-        "dimension": 57.7728776185226,
         "children": [
           {
-            "id": "2a2d58dd49c34b3f",
+            "id": "f4ac642c8a8c1561",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transition/Apocalypse Zombie.md",
+                "file": "Submission/Americana (crucifix).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,93 +28,8 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Apocalypse Zombie"
-            },
-            "group": "30ee979ee5081af2"
-          },
-          {
-            "id": "ff298ee56241f7b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation/How To Use.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How To Use"
+              "title": "Americana (crucifix)"
             }
-          }
-        ]
-      },
-      {
-        "id": "fe14d8b6c8cb4a2f",
-        "type": "tabs",
-        "dimension": 42.2271223814774,
-        "children": [
-          {
-            "id": "91a919d002986bdd",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Transition/Apocalypse Zombie.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": false,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:Position",
-                      "color": {
-                        "a": 1,
-                        "rgb": 920544
-                      }
-                    },
-                    {
-                      "query": "path:Submission",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1305644
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Apocalypse Zombie"
-            },
-            "group": "30ee979ee5081af2"
           }
         ]
       }
@@ -174,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50775146484375
+    "width": 246.50775146484375
   },
   "right": {
     "id": "e49dd5869bf2716e",
@@ -272,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 811.5
+    "width": 780.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,44 +200,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a2d58dd49c34b3f",
+  "active": "f4ac642c8a8c1561",
   "lastOpenFiles": [
-    "Transition/Apocalypse Zombie.md",
-    "Transition/Mad Dog.md",
-    "Transition/The Drowning.md",
-    "Transition/Mission Pump.md",
-    "Transition/DA.md",
-    "Transition/Barn Hook.md",
-    "Submission/Reverse Triangle.md",
-    "Submission/Monoplata.md",
-    "Submission/Gogoplata.md",
-    "Submission/Far Side Ankle Lock.md",
-    "Submission/Double Barrel.md",
-    "Submission/Cross Choke.md",
-    "Submission/Crocodile.md",
-    "Submission/Carni.md",
-    "Submission/Baratoplata.md",
-    "Submission/Baby Alligator.md",
-    "Submission/Armbar.md",
-    "Submission/Apocalypse Kimura.md",
-    "Submission/Wicked Gogoplata.md",
-    "Submission/Triangle.md",
-    "Submission/The Shark.md",
-    "Submission/The Oprah.md",
-    "Submission/The Iron Arm.md",
-    "Submission/Tepee.md",
-    "Submission/Straight Jacket.md",
-    "Submission/Special K.md",
-    "Organisation/Attachments/Pasted image 20260201191954.png",
-    "Organisation/Attachments/Pasted image 20260201203024.png",
-    "Organisation/Attachments/Pasted image 20260201202908.png",
-    "Organisation/Attachments/Pasted image 20260201193644.png",
-    "Organisation/Attachments/Pasted image 20260201202737.png",
-    "Organisation/Attachments/Pasted image 20260201201241.png",
-    "Organisation/Attachments/Pasted image 20260201201111.png",
-    "Organisation/Attachments/Pasted image 20260201200937.png",
-    "Organisation/Attachments/Pasted image 20260201200450.png",
-    "Organisation/Attachments/Pasted image 20260201195926.png",
+    "Submission/Armbar (crucifix).md",
+    "Submission/Crucifix Choke.md",
+    "Submission/Crucifix Cradle.md",
+    "Submission/Kimura (crucifix).md",
+    "Submission/Americana (crucifix).md",
+    "Submission/Scarf Hold Americana.md",
+    "Submission/Scarf Hold Armbar.md",
+    "Submission/Scarf Hold Crush.md",
+    "Submission/Gag Reflex.md",
+    "Submission/Baseball Bat Choke.md",
+    "Submission/Baseball Bat Choke (no gi).md",
+    "Submission/Marcelotine.md",
+    "Submission/Hip Choke.md",
+    "Submission/Helicopter Choke.md",
+    "Submission/Inverted Arm Lock.md",
+    "Submission/Armpit Lock.md",
+    "Submission/Telephone Lock.md",
+    "Submission/North South Choke.md",
+    "Submission/Bulgarian Neck Choke.md",
+    "Submission/Assasin Choke.md",
+    "Submission/Tren Lock.md",
+    "Submission/Walls of Jericho.md",
+    "Submission/Figure 4 Leg Lock.md",
+    "Submission/Scottish Twister.md",
+    "Submission/Spine Lock.md",
+    "Submission/Ham Sandwich.md",
+    "Organisation/Attachments/Pasted image 20260202230024.png",
+    "Organisation/Attachments/Pasted image 20260202225457.png",
+    "Organisation/Attachments/Pasted image 20260202225153.png",
+    "Organisation/Attachments/Pasted image 20260202224927.png",
+    "Organisation/Attachments/Pasted image 20260202224517.png",
+    "Organisation/Attachments/Pasted image 20260202224205.png",
+    "Organisation/Attachments/Pasted image 20260202223633.png",
+    "Organisation/Attachments/Pasted image 20260202222434.png",
+    "Organisation/Attachments/Pasted image 20260202222156.png",
+    "Organisation/Attachments/Pasted image 20260202221557.png",
     "Organisation/Index.base",
     "Organisation/Attachments",
     "90",

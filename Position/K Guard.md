@@ -1,14 +1,15 @@
 ---
 aliases:
 tags:
-  - New
-  - 10pRubberGuard
+  - "#New"
 cssclasses:
 ---
 ## Definition
+
+## Submissions
 
 ## Transitions
 
 # References
 
-Note Created: 2026-01-27 14:15
+Note Created: 2026-02-02 23:05

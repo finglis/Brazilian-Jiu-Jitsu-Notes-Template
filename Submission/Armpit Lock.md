@@ -2,7 +2,6 @@
 aliases:
 tags:
   - "#New"
-  - 10pRubberGuard
 cssclasses:
 ---
 ## Definition
@@ -11,4 +10,4 @@ cssclasses:
 
 # References
 
-Note Created: 2026-01-28 17:17
+Note Created: 2026-02-03 00:16

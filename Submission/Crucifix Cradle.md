@@ -2,15 +2,12 @@
 aliases:
 tags:
   - "#New"
-  - 10pRubberGuard
 cssclasses:
 ---
-## From
-
-## To
-
 ## Definition
+
+## Transitions
 
 # References
 
-Note Created: 2026-01-28 11:40
+Note Created: 2026-02-03 00:11

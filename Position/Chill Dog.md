@@ -10,7 +10,7 @@ cssclasses:
 
 ## Submissions
 [[Ninja Choke]]
-[[Armbar]]
+[[Armbar (opponent upright)]]
 [[Carni]] via Kung Fu Move
 [[Monoplata]] via Kung Fu Move
 [[Gogoplata]] via Kung Fu Move and sometimes double bagger

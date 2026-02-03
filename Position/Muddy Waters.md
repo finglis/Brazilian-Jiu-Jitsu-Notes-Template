@@ -8,7 +8,7 @@ cssclasses:
 ## Definition
 
 ## Submissions
-[[Kimura]]
+[[Kimura (opponent upright)]]
 [[Crocodile]]
 
 ## Transitions

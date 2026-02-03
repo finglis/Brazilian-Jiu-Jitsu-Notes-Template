@@ -5,6 +5,8 @@ tags:
 cssclasses:
 ---
 ## Definition
+![[Pasted image 20260201224353.png]]
+[1. Image Source](https://www.youtube.com/watch?v=LDblXB61pok)
 
 ## Submissions
 
@@ -15,8 +17,11 @@ cssclasses:
 [[Lockdown (from half guard)]]
 [[Dog Fight]]
 [[Z Guard]]
-[[Octopus Guard]]
+[[Octopus Guard (top)]]
 [[Half Butterfly Guard]]
+[[Octopus Guard (bottom)]]
 # References
+1. [Best BJJ Submission for Beginners | How to Do a Triangle Choke - BSF YouTube](https://www.youtube.com/watch?v=LDblXB61pok)
+
 
 Note Created: 2026-01-31 20:20
