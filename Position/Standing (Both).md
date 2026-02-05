@@ -9,8 +9,8 @@ cssclasses:
 ## Submissions
 
 ## Transitions
-[[Neck tie]]
-[[Rear Body Lock]]
+[[Collar tie]]
+[[Body Lock (rear)]]
 [[Single leg]]
 [[Side Control (top)]]
 [[Mount (top)]]

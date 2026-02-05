@@ -1,5 +1,6 @@
 ---
 aliases:
+  - J Lock
 tags:
   - "#New"
 cssclasses:

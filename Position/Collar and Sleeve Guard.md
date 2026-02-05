@@ -2,6 +2,7 @@
 aliases:
 tags:
   - "#New"
+  - Gi
 cssclasses:
 ---
 ## Definition

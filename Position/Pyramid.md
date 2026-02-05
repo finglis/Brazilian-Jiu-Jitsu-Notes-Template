@@ -7,7 +7,7 @@ cssclasses:
 ---
 ## Definition
 ![[Pasted image 20260201225802.png]]
-[1. Image Source](https://www.youtube.com/watch?v=LDblXB61pok)
+[Image Source](https://www.youtube.com/watch?v=LDblXB61pok)
 ## Submissions
 [[Inverted Armbar]]
 [[Triangle]]
@@ -15,7 +15,6 @@ cssclasses:
 ## Transitions
 [[Stock]]
 [[Rubik's Cube]]
-
 
 # References
 1. [Best BJJ Submission for Beginners | How to Do a Triangle Choke - BSF YouTube](https://www.youtube.com/watch?v=LDblXB61pok)

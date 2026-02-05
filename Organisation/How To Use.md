@@ -17,7 +17,8 @@ Select the map view to open a new tab by selecting the map icon in the top left 
 ![[Pasted image 20260201194516.png]]
 You can then click and drag that tab into the toolbar in the top right pane so it looks like this: 
 ![[Pasted image 20260201194909.png]]
-The big over complicated graph will show on the right. This can be hidden using 
+The big over complicated graph will show on the right. Id recommend pining it with a right click.
+If can still be hidden using 
 ![[Pasted image 20260201194248.png]] 
 There is a bunch of settings that will improve the viewing experience which can be edited by selecting the cog and can be seen below:
 ![[Pasted image 20260201200450.png]]

@@ -12,6 +12,6 @@ cssclasses:
 [[Tepee Choke]]
 [[Triangle Punch Choke]]
 # References
-[Best BJJ Submission for Beginners - BSF YouTube](https://www.youtube.com/watch?v=LDblXB61pok)
+1. [Best BJJ Submission for Beginners - BSF YouTube](https://www.youtube.com/watch?v=LDblXB61pok)
 
 Note Created: 2026-01-28 12:11

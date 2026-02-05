@@ -15,7 +15,7 @@ cssclasses:
 [[Mount (top)]]
 [[Spider Web]]
 [[Knee On Belly]]
-[[Scarf hold]]
+[[Scarf hold (top)]]
 [[Reverse Scarf Hold]]
 [[Twister Side Control]]
 [[Crucifix Top Side (attack)]]

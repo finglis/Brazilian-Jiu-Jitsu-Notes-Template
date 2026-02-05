@@ -5,6 +5,7 @@ tags:
 cssclasses:
 ---
 ## Definition
+Not fully locked up, before the sub
 ![[Pasted image 20260201230155.png]]
 [1. Image Source](https://www.youtube.com/watch?v=LDblXB61pok)
 ## Submissions

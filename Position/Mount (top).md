@@ -12,7 +12,7 @@ cssclasses:
 
 ## Transitions
 [[Technical Mount]]
-[[High Mount]]
+[[Mount High]]
 [[Quarter Guard (straddle]]
 [[Quarter Guard (not straddle)]]
 [[S Mount]]

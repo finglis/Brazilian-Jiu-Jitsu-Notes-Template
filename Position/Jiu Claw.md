@@ -12,8 +12,8 @@ cssclasses:
 [[Omoplata]]
 [[Armbar (opponent flat)]]
 [[Inverted Armbar]]
-[[Near Side Ankle Lock]]
-[[Far Side Ankle Lock]]
+[[Straight Ankle Lock]]
+[[Straight Ankle Lock (far side)]]
 
 ## Transitions
 [[The Ice Pick]]

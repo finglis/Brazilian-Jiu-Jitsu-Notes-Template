@@ -6,6 +6,7 @@
       {
         "id": "7da235c3362cfbec",
         "type": "tabs",
+        "dimension": 52.72,
         "children": [
           {
             "id": "f4ac642c8a8c1561",
@@ -39,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Submission/Walls of Jericho.md",
+                "file": "Position/Side Control (top).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +55,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Walls of Jericho"
+              "title": "Side Control (top)"
             },
             "group": "f018b5ed72bc1c7c"
           }
@@ -64,11 +65,12 @@
       {
         "id": "3790013d5f8c6be7",
         "type": "split",
+        "dimension": 47.28,
         "children": [
           {
             "id": "1bb309d5787bee7b",
             "type": "tabs",
-            "dimension": 57.11610486891385,
+            "dimension": 57.11610486891386,
             "children": [
               {
                 "id": "d56eaae85eca83d8",
@@ -76,7 +78,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Submission/Walls of Jericho.md",
+                    "file": "Position/Side Control (top).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -114,12 +116,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.7132754554955545,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Walls of Jericho"
+                  "title": "Graph of Side Control (top)"
                 },
                 "group": "f018b5ed72bc1c7c"
               }
@@ -136,7 +138,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Submission/Walls of Jericho.md",
+                    "file": "Position/Side Control (top).md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Walls of Jericho"
+                  "title": "Backlinks for Side Control (top)"
                 },
                 "group": "f018b5ed72bc1c7c"
               },
@@ -156,17 +158,16 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Submission/Walls of Jericho.md",
+                    "file": "Position/Side Control (top).md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from Walls of Jericho"
+                  "title": "Outgoing links from Side Control (top)"
                 },
                 "group": "f018b5ed72bc1c7c"
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -226,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.50775146484375
+    "width": 200
   },
   "right": {
     "id": "e49dd5869bf2716e",
@@ -326,7 +327,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 593.5
+    "width": 814.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,44 +340,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "92f16509498306cb",
+  "active": "d56eaae85eca83d8",
   "lastOpenFiles": [
-    "Submission/Wicked Gogoplata.md",
-    "Submission/Walls of Jericho.md",
-    "Submission/Von Flue Choke.md",
-    "Submission/Twister.md",
-    "Submission/Triangle.md",
-    "Submission/Toe Hold.md",
-    "Submission/The Oprah.md",
-    "Submission/Tepee Choke.md",
-    "Submission/Tickle.md",
-    "Submission/The Shark.md",
-    "Submission/Hip Choke.md",
-    "Submission/Banana Split.md",
+    "Position/Side Control (top).md",
+    "Position/Back (attack).md",
+    "Position/Mission Control.md",
+    "Position/Open Guard (me).md",
+    "Position/50-50.md",
+    "Organisation/How To Use.md",
+    "Position/Front Headlock (top).md",
+    "Position/Full Guard (attack).md",
+    "Submission/Carni.md",
     "Submission/Canto Choke.md",
-    "Submission/Badger Bite.md",
-    "Submission/Aoki Lock.md",
-    "Submission/STF.md",
-    "Submission/Animal Planet.md",
-    "Jesus Curls.md",
-    "Submission/Diesel Squeezel.md",
-    "Submission/Tepee Crush.md",
+    "Submission/Clock Choke.md",
+    "Submission/Choi Bar.md",
+    "Submission/Can Opener.md",
+    "Submission/Calf Crusher.md",
+    "Submission/Caio Terra Footlock.md",
     "Submission/Butcher Shop.md",
     "Submission/Bulldog Choke (reverse).md",
-    "Submission/The Hoover.md",
-    "Submission/Triangle Punch Choke.md",
-    "Submission/Tren Lock.md",
-    "Submission/Mikey Lock.md",
-    "Organisation/Attachments/Pasted image 20260201233612.png",
-    "Organisation/Attachments/Pasted image 20260201233141.png",
-    "Organisation/Attachments/Pasted image 20260201232827.png",
-    "Organisation/Attachments/Pasted image 20260201230855.png",
-    "Organisation/Attachments/Pasted image 20260201230552.png",
-    "Organisation/Attachments/Pasted image 20260201230155.png",
-    "Organisation/Attachments/Pasted image 20260201225949.png",
-    "Organisation/Attachments/Pasted image 20260201225802.png",
-    "Organisation/Attachments/Pasted image 20260201224353.png",
-    "Organisation/Attachments/Pasted image 20260202230024.png",
+    "Submission/Bulldog Choke.md",
+    "Submission/Bulgarian Neck Choke.md",
+    "Submission/Buggy Choke.md",
+    "Submission/Brabo Choke.md",
+    "Submission/Bow and Arrow.md",
+    "Submission/Boston Crab.md",
+    "Submission/Bolt Cutter.md",
+    "Submission/Bicep Slicer.md",
+    "Submission/Baseball Bat Choke (no gi).md",
+    "Organisation/Attachments/Pasted image 20260205171945.png",
+    "Organisation/Attachments/Pasted image 20260205171944.png",
+    "Organisation/Attachments/Pasted image 20260205160608.png",
+    "Organisation/Attachments/Pasted image 20260205161634.png",
+    "Organisation/Attachments/Pasted image 20260203163013.png",
+    "Organisation/Attachments/Pasted image 20260201194602.png",
+    "Organisation/Attachments/Pasted image 20260205002250.png",
+    "Organisation/Attachments/Pasted image 20260204220037.png",
+    "Organisation/Attachments/Pasted image 20260204212402.png",
+    "Organisation/Attachments/Pasted image 20260202215357.png",
     "Organisation/Index.base",
     "Organisation/Attachments",
     "90",
