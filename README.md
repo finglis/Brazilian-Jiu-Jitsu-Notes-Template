@@ -1,20 +1,22 @@
 # Brazilian-Jiu-Jitsu-Notes-Template
 
-Template for mapping out BJJ positions, transitions and submissions.
+Template for mapping out BJJ positions, transitions and submissions in the Obsidian application.
 
+![[Pasted image 20260205173451.png]]
 ## Requirements
 
 - [Obsidian](https://obsidian.md/) - Note taking app that allows for connections between those notes to be viewed as graphs.
+- This template (via code -> download zip, or "use this template" if you use Github or make a clone if you want to suggest updates). 
 - Tylenol and tolerance...
 
 ## How To Use
 
-- Run obsidian and select "Open folder as vault" then select the folder where you cloned this repository (or downloaded and saved these files on your computer).
-- Once opened in Obsidian, check out the "How To Use" note for instructions on how to use and the logic behind the set-up.
+- Run obsidian and select "Open folder as vault" then select the folder where you cloned this repository (or downloaded/saved and unzipped these files on your computer).
+- Once opened in Obsidian, check out the "How To Use" note for instructions and the logic behind the current set-up.
 
 ## Note
 
-This was created to help myself retain BJJ techniques better. Feel free to use and modify it as you see fit and send over pull requests.
+This was created to help myself retain BJJ techniques better. Feel free to use and modify it as you see fit and send over pull requests if you want to contribute.
 
 The useful plugin to actually map out paths is in development but will be linked here once available.
 
@@ -23,6 +25,6 @@ You may notice a few techniques are not included on the list such as ones involv
 
 ## Acknowledgements
 
-Thanks to the Osprey MMA crew for the help building this list in addition to making me "technically proficient at 0.3% of them". 
+Thanks to the Osprey MMA crew for the help building this list in addition to helping me eventually be "technically proficient at 0.3% of them". 
 
 Big shout out to [Jake Smith](https://www.instagram.com/jake_smith_26) and the folks at [Boston Submission Fighting](https://bostonsubmissionfighting.com/) (previously NESF) for allowing use of screenshots of their clips and videos within the notes. Check out their [instagram]((https://www.instagram.com/bostonsubmissionfighting/)) or [youtube](https://www.youtube.com/@bostonsubmissionfighting) for a treasure trove of BJJ content.
