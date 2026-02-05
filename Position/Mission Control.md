@@ -17,7 +17,7 @@ css:
 [[New York]] (via Zombie)
 [[Crackhead Control]] 
 [[Invisible Crackhead]]
-[[Retard Control]]
+[[Special Ed Control]]
 [[Brackish Waters]]
 [[Gunshow]]
 [[Dead Orchard]]

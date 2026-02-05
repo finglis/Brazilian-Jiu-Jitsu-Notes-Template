@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Re---d Control
 tags:
   - New
   - 10pRubberGuard

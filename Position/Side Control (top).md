@@ -8,7 +8,6 @@ cssclasses:
 ## Definition
 ![[Pasted image 20260202213829.png]]
 [1. Image Source](https://www.youtube.com/watch?v=LDblXB61pok)
-
 ## Submissions
 
 ## Transitions
