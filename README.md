@@ -2,7 +2,8 @@
 
 Template for mapping out BJJ positions, transitions and submissions in the Obsidian application.
 
-![[Pasted image 20260205173451.png]]
+<img width="2560" height="1400" alt="Pasted image 20260205173451" src="https://github.com/user-attachments/assets/554dc5a6-94f0-41bb-8dd3-07892dbec02c" />
+
 ## Requirements
 
 - [Obsidian](https://obsidian.md/) - Note taking app that allows for connections between those notes to be viewed as graphs.
