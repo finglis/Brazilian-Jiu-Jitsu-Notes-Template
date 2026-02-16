@@ -4,5 +4,9 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Organisation/Attachments",
   "promptDelete": false,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "userIgnoreFilters": [
+    "Transition/",
+    "Organisation/"
+  ]
 }
