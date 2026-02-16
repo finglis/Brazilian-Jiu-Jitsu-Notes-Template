@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Crotch Ripper
 tags:
   - "#New"
 cssclasses:

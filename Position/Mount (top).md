@@ -13,8 +13,8 @@ cssclasses:
 ## Transitions
 [[Technical Mount]]
 [[Mount High]]
-[[Quarter Guard (straddle]]
-[[Quarter Guard (not straddle)]]
+[[Three-Quarter Guard]]
+[[Quarter Guard]]
 [[S Mount]]
 [[Donkey Guard]]
 # References

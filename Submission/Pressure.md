@@ -5,7 +5,7 @@ tags:
 cssclasses:
 ---
 ## Definition
-Does this really need a definition...?
+Yep.
 ## Transitions
 
 # References

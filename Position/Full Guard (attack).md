@@ -17,7 +17,7 @@ cssclasses:
 [[Mission Control]] 
 [[Williams Guard]]
 [[Clamp Guard]]
-[[Full guard Standing (attack)]]
+[[Full Guard Standing (attack)]]
 [[Rat Guard]]
 [[High Full Guard]]
 [[Shit triangle]]

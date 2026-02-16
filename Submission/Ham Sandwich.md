@@ -1,5 +1,6 @@
 ---
 aliases:
+  - The Bear Trap
 tags:
   - "#New"
 cssclasses:

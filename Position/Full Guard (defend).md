@@ -7,7 +7,6 @@ cssclasses:
 ## Definition
 ![[Pasted image 20260205171945.png]]
 [1. Image Source](https://www.instagram.com/reel/DUYMJN2DmJt/)
-
 ## Submissions
 
 ## Transitions

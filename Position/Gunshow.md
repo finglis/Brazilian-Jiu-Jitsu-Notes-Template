@@ -13,8 +13,6 @@ cssclasses:
 [[Double Barrel]]
 [[Single Barrel]]
 [[Crocodile]]
-
-
 ## Transitions
 [[Dead Orchard]]
 [[Hindu Control]]

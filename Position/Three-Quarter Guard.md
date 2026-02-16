@@ -1,5 +1,6 @@
 ---
 aliases:
+  - 3/4 Mount
 tags:
   - "#New"
 cssclasses:
@@ -12,4 +13,4 @@ cssclasses:
 
 # References
 
-Note Created: 2026-01-31 20:39
+Note Created: 2026-01-31 20:47

@@ -7,7 +7,6 @@ cssclasses:
 ## Definition
 ![[Pasted image 20260201233612.png]]
 [1. Image Source](https://www.youtube.com/watch?v=LDblXB61pok)
-!TBC differences between Clamp Guard and Pyramid.
 ## Submissions
 
 ## Transitions

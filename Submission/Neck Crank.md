@@ -5,6 +5,7 @@ tags:
 cssclasses:
 ---
 ## Definition
+A side effect of many other submissions
 ![[Pasted image 20260204215645.png]]
 [1. Image Source](https://www.instagram.com/reel/DQKM45FgF8i/)
 ## Transitions
