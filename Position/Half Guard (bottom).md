@@ -11,15 +11,7 @@ cssclasses:
 ## Submissions
 
 ## Transitions
-[[Butterfly Guard (single)]]
-[[Waiter Guard]]
-[[Deep Half Guard]]
-[[Lockdown (from half guard)]]
-[[Dog Fight]]
-[[Z Guard]]
-[[Octopus Guard (top)]]
-[[Half Butterfly Guard]]
-[[Octopus Guard (bottom)]]
+
 # References
 1. [Best BJJ Submission for Beginners | How to Do a Triangle Choke - BSF YouTube](https://www.youtube.com/watch?v=LDblXB61pok)
 

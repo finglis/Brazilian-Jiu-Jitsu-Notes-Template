@@ -1,5 +1,6 @@
 ---
 aliases:
+  - High Mount
 tags:
   - "#New"
 cssclasses:
