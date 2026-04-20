@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Position/Over Under.md",
+                "file": "Submission/Punch Choke (mount).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Over Under"
+              "title": "Punch Choke (mount)"
+            }
+          },
+          {
+            "id": "37b68ee4a7a08765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Submission/Diesel Squeezel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Diesel Squeezel"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 312.5
   },
   "right": {
     "id": "e49dd5869bf2716e",
@@ -229,12 +253,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "e443e4190951790a",
+  "active": "37b68ee4a7a08765",
   "lastOpenFiles": [
+    "Submission/Punch Choke (mount).md",
+    "Submission/Punch Choke (scarf hold).md",
+    "Submission/Punch Choke (triangle).md",
+    "Submission/Diesel Squeezel.md",
+    "Submission/Guillotine (arm in).md",
+    "Submission/Arm Triangle (opponent upright).md",
+    "Position/Half Guard (top).md",
+    "Position/Z Guard.md",
+    "Position/Body Lock (guard).md",
+    "Organisation/How To Use.md",
+    "Position/Body Lock (behind).md",
+    "Position/Body lock (standing).md",
+    "Position/Body Triangle (defend).md",
+    "Position/Body Triangle (attack).md",
     "Position/Russian Tie.md",
+    "Position/Over Under.md",
     "Position/Collar tie.md",
     "Submission/Straight Ankle Lock (belly down).md",
-    "Organisation/How To Use.md",
     "Submission/100%.md",
     "Submission/Z Lock.md",
     "Submission/Wrist Lock (scarf hold).md",
@@ -243,20 +281,6 @@
     "Submission/Wrist Lock.md",
     "Submission/Wicked Gogoplata.md",
     "Submission/Walls of Jericho.md",
-    "Submission/Von Flue Choke.md",
-    "Submission/Twister (scottish).md",
-    "Submission/Twister (baby).md",
-    "Submission/Twister.md",
-    "Submission/Triangle Punch Choke.md",
-    "Submission/Triangle (inverted).md",
-    "Submission/Triangle (inverted) Spine Lock.md",
-    "Submission/Triangle (reverse).md",
-    "Submission/Triangle (wrong side).md",
-    "Submission/Triangle (original).md",
-    "Submission/Triangle (no arm).md",
-    "Submission/Triangle (mounted).md",
-    "Submission/Triangle (back).md",
-    "Submission/Toe Hold.md",
     "Organisation/Attachments/Pasted image 20260418161821.png",
     "Organisation/Attachments/Pasted image 20260205171945.png",
     "Organisation/Attachments/Pasted image 20260205171944.png",

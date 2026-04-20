@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Punch Choke
 tags:
   - "#New"
 cssclasses:
