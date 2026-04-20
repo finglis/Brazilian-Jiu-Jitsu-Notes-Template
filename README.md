@@ -28,4 +28,4 @@ You may notice a few techniques are not included on the list such as ones involv
 
 Thanks to the Osprey MMA crew for the help building this list in addition to helping me eventually be "technically proficient at 0.3% of them". 
 
-Big shout out to [Jake Smith](https://www.instagram.com/jake_smith_26) and the folks at [Boston Submission Fighting](https://bostonsubmissionfighting.com/) (previously NESF) for allowing use of screenshots of their clips and videos within the notes. Check out their [instagram]((https://www.instagram.com/bostonsubmissionfighting/)) or [youtube](https://www.youtube.com/@bostonsubmissionfighting) for a treasure trove of BJJ content.
+Big shout out to [Jake Smith](https://www.instagram.com/jake_smith_26) and the folks at [Boston Submission Fighting](https://bostonsubmissionfighting.com/) (previously NESF) for allowing use of screenshots of their clips and videos within the notes. Check out their [instagram](https://www.instagram.com/bostonsubmissionfighting/) or [youtube](https://www.youtube.com/@bostonsubmissionfighting) for a treasure trove of BJJ content.
