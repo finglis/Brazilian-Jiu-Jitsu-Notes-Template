@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Penicuik Crush
 tags:
   - "#New"
 cssclasses:

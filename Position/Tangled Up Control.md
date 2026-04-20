@@ -7,8 +7,7 @@ cssclasses:
 ## Definition
 
 ## Submissions
-[[Triangle]]
-
+[[Triangle (original)]]
 ## Transitions
 
 # References

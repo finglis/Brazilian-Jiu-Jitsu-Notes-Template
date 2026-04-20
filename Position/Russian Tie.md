@@ -1,5 +1,7 @@
 ---
 aliases:
+  - 2 on 1
+  - two on one
 tags:
   - "#New"
 cssclasses:

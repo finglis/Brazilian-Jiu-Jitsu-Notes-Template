@@ -7,7 +7,7 @@ cssclasses:
 ## Definition
 
 ## Submissions
-[[Triangle]]
+[[Triangle (original)]]
 [[Ninja-Plata]]
 ## Transitions
 [[Puppet Master]]

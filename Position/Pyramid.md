@@ -6,13 +6,12 @@ tags:
 cssclasses:
 ---
 ## Definition
-(Image shows clamp guard, very similar to Pyramid which requires the right arm to be hooked over the opponents left arm)
+Not exact position - Image shows clamp guard, very similar to Pyramid which requires the right arm to be hooked over the opponents left arm)
 ![[Pasted image 20260201225802.png]]
 [Image Source](https://www.youtube.com/watch?v=LDblXB61pok)
 ## Submissions
-[[Inverted Armbar]]
-[[Triangle]]
-
+[[Armbar (inverted)]]
+[[Triangle (original)]]
 ## Transitions
 [[Stock]]
 [[Rubik's Cube]]

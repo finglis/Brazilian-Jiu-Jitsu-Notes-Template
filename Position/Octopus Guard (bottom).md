@@ -10,8 +10,6 @@ cssclasses:
 ## Submissions
 
 ## Transitions
-[[Back (attack)]]
-[[Side Control (top)]]
 
 # References
 1. [Octopus Guard Is Easy - BSF YouTube](https://www.youtube.com/watch?v=LQyn3FMkIto)

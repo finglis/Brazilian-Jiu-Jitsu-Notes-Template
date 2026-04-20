@@ -11,7 +11,7 @@ cssclasses:
 [[Hazelett]]
 [[Omoplata]]
 [[Armbar (opponent flat)]]
-[[Inverted Armbar]]
+[[Armbar (inverted)]]
 [[Straight Ankle Lock]]
 [[Straight Ankle Lock (far side)]]
 

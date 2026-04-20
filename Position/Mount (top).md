@@ -12,7 +12,7 @@ cssclasses:
 
 ## Transitions
 [[Technical Mount]]
-[[Mount High]]
+[[Mount High (top)]]
 [[Three-Quarter Guard]]
 [[Quarter Guard]]
 [[S Mount]]

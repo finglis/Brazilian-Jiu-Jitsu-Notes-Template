@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Calf Crusher
 tags:
   - "#New"
 cssclasses:

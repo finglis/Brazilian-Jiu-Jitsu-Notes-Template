@@ -19,7 +19,7 @@ cssclasses:
 [[Clamp Guard]]
 [[Full Guard Standing (attack)]]
 [[Rat Guard]]
-[[High Full Guard]]
+[[Full Guard High]]
 [[Shit triangle]]
 [[Reverse Kimura Guard]]
 

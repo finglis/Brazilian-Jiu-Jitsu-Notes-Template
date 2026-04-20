@@ -1,6 +1,7 @@
 ---
 aliases:
   - Jesus Curls
+  - Kidney Crusher
 tags:
   - "#New"
   - 10pRubberGuard

@@ -6,8 +6,7 @@ tags:
 cssclasses:
 ---
 ## Definition
-
-![[Pasted image 20260202224927.png]]
+![[Pasted image 20260418161821.png]]
 [1. Image Source](https://www.instagram.com/reel/C87SMAPx878/)
 ## Transitions
 # References

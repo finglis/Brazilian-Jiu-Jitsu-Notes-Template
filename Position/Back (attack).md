@@ -14,10 +14,6 @@ Arm trapped Variation
 ## Submissions
 
 ## Transitions
-[[Lockdown (from back)]]
-[[Back Mount (attack)]]
-[[Body Triangle (attack)]]
-[[Crucifix (attack)]]
 
 # References
 1. [Attack The Back - Elements of Control - BSF YouTube](https://www.youtube.com/watch?v=n6JkvynkfWY)

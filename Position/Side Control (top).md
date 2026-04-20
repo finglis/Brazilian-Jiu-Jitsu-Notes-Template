@@ -11,13 +11,6 @@ cssclasses:
 ## Submissions
 
 ## Transitions
-[[Mount (top)]]
-[[Spider Web]]
-[[Knee On Belly]]
-[[Scarf hold (top)]]
-[[Reverse Scarf Hold]]
-[[Twister Side Control]]
-[[Crucifix Top Side (attack)]]
 
 # References
 1. [Kimura EVERYONE with These Details | Jiu-Jitsu Basics - BSF YouTube](https://www.youtube.com/watch?v=LDblXB61pok)

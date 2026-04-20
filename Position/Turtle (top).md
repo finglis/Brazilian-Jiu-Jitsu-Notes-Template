@@ -11,8 +11,6 @@ cssclasses:
 ## Submissions
 
 ## Transitions
-[[Truck]]
-[[Crucifix (attack)]]
 
 # References
 1. [Jiu-Jitsu is fake, just stand up! - BSF Instagram](https://www.instagram.com/reel/DS-EX5YDiXN/)

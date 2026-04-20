@@ -7,7 +7,7 @@ cssclasses:
 ## Definition
 
 ## Submissions
-[[Triangle]]
+[[Triangle (original)]]
 
 ## Transitions
 [[Tangled Up Control]]

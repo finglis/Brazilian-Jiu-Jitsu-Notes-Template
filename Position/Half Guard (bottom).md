@@ -11,7 +11,7 @@ cssclasses:
 ## Submissions
 
 ## Transitions
-[[Butterfly Guard]]
+[[Butterfly Guard (single)]]
 [[Waiter Guard]]
 [[Deep Half Guard]]
 [[Lockdown (from half guard)]]

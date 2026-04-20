@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Knee Slice
 tags:
   - "#New"
 cssclasses:
@@ -12,4 +13,4 @@ cssclasses:
 
 # References
 
-Note Created: 2026-01-31 20:14
+Note Created: 2026-04-18 15:39

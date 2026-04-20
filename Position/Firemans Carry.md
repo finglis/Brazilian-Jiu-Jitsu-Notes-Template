@@ -4,12 +4,8 @@ tags:
   - "#New"
 cssclasses:
 ---
-## From
---Don't write in link form or it will screw up the graph-- 
-## To
---Don't write in link form or it will screw up the graph-- 
-
 ## Definition
+Position is when opponent is loaded (so prior to the throw seen below) 
 ![[Pasted image 20260204222557.png]]
 [1. Image Source](https://www.instagram.com/reel/DPba8fFgdpV/)
 # References

@@ -5,7 +5,7 @@ tags:
 cssclasses:
 ---
 ## Definition
-Shame on you if you use this or tap to this. 
+Shame on you if you use or tap to this. 
 ## Transitions
 
 # References

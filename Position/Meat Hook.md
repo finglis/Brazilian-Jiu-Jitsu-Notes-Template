@@ -8,7 +8,7 @@ cssclasses:
 ## Definition
 
 ## Submissions
-[[Triangle]]
+[[Triangle (original)]]
 [[The Oprah]] via The Shanaynay
 ## Transitions
 [[Hindu Control]]

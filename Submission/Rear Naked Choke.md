@@ -1,5 +1,6 @@
 ---
 aliases:
+  - RNC
 tags:
   - "#New"
 cssclasses:

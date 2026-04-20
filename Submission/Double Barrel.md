@@ -8,7 +8,7 @@ cssclasses:
 ## Definition
 
 ## Transitions
-[[Reverse Triangle]]
+[[Triangle (reverse)]]
 [[Baratoplata]]
 [[Crocodile]]
 

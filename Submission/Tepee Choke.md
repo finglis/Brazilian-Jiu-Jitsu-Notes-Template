@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Scissor Choke
+  - Scissor Lock
 tags:
   - "#New"
   - 10pRubberGuard

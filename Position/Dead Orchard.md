@@ -6,13 +6,13 @@ tags:
 cssclasses:
 ---
 ## Definition
-Loose lock up (should be more of a triangle, this is more high full guard or shit triangle)
+Not exact position - Loose lock up (should be more of a triangle, this is more high full guard or shit triangle)
 ![[Pasted image 20260203163016.png]]
 [1. Image Source](https://www.instagram.com/reel/DSm5MOTDusx/)
 ## Submissions
 [[Crocodile]]
 [[Baby Alligator]]
-[[Far Side Armbar]]
+[[Armbar (far side)]]
 [[Kimura (opponent upright)]]
 [[Duda]]
 [[Apocalypse Kimura]] (via Apocalypse Zombie)

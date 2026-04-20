@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Reverse triangle
 tags:
   - "#New"
   - 10pRubberGuard
